@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "133090738495",
+    "project_id": "fragrancekw-eab6f",
+    "storage_bucket": "fragrancekw-eab6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133090738495:android:e1eab137018770ac66138a",
+        "android_client_info": {
+          "package_name": "com.example.fragrance_kw.admin_fragrance_kw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133090738495-qlong34nj3o5f84og0trvsdfhdosljtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fragrance_kw",
+            "certificate_hash": "a46269794838a2da1718677e5863abb96cf9c139"
+          }
+        },
+        {
+          "client_id": "133090738495-lu6tbtugdtp1j7jtrneq4kiptcr89h10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0vSgO78MRS04ExBTalA9hHGH3BNLCeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133090738495-lu6tbtugdtp1j7jtrneq4kiptcr89h10.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133090738495-v500r67d06e047runlvujn2a29gi2p3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fragranceKw"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133090738495:android:4e7860ac93cb64dd66138a",
+        "android_client_info": {
+          "package_name": "com.example.fragrance_kw.admin_fragra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133090738495-lu6tbtugdtp1j7jtrneq4kiptcr89h10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0vSgO78MRS04ExBTalA9hHGH3BNLCeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133090738495-lu6tbtugdtp1j7jtrneq4kiptcr89h10.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133090738495-v500r67d06e047runlvujn2a29gi2p3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fragranceKw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
